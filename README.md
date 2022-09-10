@@ -1,4 +1,4 @@
-![hello-world](./background.png)
+<img align="center" width="500" src="./background.png" alt="hello-world" />
 <h1 align="center">Hi 👋, I'm YOHSUKE NAKAMURA</h1>
 <h3 align="center">A Beginning Engineer</h3>
 
