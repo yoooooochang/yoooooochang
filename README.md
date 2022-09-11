@@ -1,4 +1,4 @@
-<img align="center" width="500" src="./background.png" alt="hello-world" />
+![hello-world](./image/background.png)
 <h1 align="center">Hi 👋, I'm YOHSUKE NAKAMURA</h1>
 <h3 align="center">A Beginning Engineer</h3>
 
@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **m.u.com.yn@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
